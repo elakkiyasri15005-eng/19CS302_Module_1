@@ -1,5 +1,5 @@
 # EX 5 C program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
-## DATE:17-03-26
+## DATE:19-03-26
 
 To write a C program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
 
