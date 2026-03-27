@@ -1,6 +1,6 @@
 # EX 2 C program to check whether the attendance is PRESENT using simple if statement.
 ## DATE:17/03/2026
-### AIM:
+### AIM
 To write a program to check whether the attendance is PRESENT using simple if statement.
 
 ### Algorithm:
